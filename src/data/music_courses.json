@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 7,
+      "title": "Master Every Aspect of SEO",
+      "slug": "master-every-aspect-of-seo",
+      "description": "Collaborate in real-time with your team, clients, and stakeholders to optimize your website for search engines. Enhance your site's visibility, share ideas, and make data-driven decisions quickly. Our platform streamlines your SEO workflow, boosting your productivity and search rankings.",
+      "price": 79.99,
+      "instructor": "Alexandra Green",
+      "isFeatured": true,
+      "image": "/courses/seo.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Collaborative Web Development",
+      "slug": "collaborative-web-development",
+      "description": "Work together in real-time with your team, clients, and stakeholders on your web development projects. Collaborate on code, share ideas, and make decisions quickly. With our platform, you can streamline your development workflow, enhance your code quality, and increase productivity.",
+      "price": 89.99,
+      "instructor": "Christopher White",
+      "isFeatured": true,
+      "image": "/courses/web-development.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Collaborative Interface Design",
+      "slug": "collaborative-interface-design",
+      "description": "Work together in real-time with your team, clients, and stakeholders on your interface design projects. Collaborate on design elements, share ideas, and make decisions quickly. With our platform, you can streamline your design process, ensure consistency, and increase productivity.",
+      "price": 79.99,
+      "instructor": "Emma Thompson",
+      "isFeatured": true,
+      "image": "/courses/interface-design.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Real-time Content Management",
+      "slug": "real-time-content-management",
+      "description": "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
+      "price": 99.99,
+      "instructor": "Michael Robinson",
+      "isFeatured": true,
+      "image": "/courses/content-management.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Digital Marketing Strategies",
+      "slug": "digital-marketing-strategies",
+      "description": "Learn the latest digital marketing strategies to grow your business online. From SEO and content marketing to social media and PPC, master the techniques that drive results.",
+      "price": 129.99,
+      "instructor": "Jessica Davis",
+      "isFeatured": true,
+      "image": "/courses/digital-marketing.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Advanced Data Analytics",
+      "slug": "advanced-data-analytics",
+      "description": "Unlock the power of data with advanced analytics techniques. Learn to analyze complex datasets, derive insights, and make data-driven decisions to propel your business forward.",
+      "price": 149.99,
+      "instructor": "Ryan Johnson",
+      "isFeatured": true,
+      "image": "/courses/data-analytics.jpg"
+    }
+  ]
+}
